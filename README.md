@@ -10,3 +10,12 @@ Analytics for Hospital Health-Care Data
 * [Prepared Data](https://us3.ca.analytics.ibm.com/bi/?perspective=ca-modeller&pathRef=.my_folders%2FPharma_Monthly_Sales_DataPrep)
 * [Data Explored](https://us3.ca.analytics.ibm.com/bi/?perspective=explore&pathRef=.my_folders%2FPharma_Monthly_Sales_DataExplored)
 * [Dashboard](https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FPharma_Monthly_Sales_Dashboard&action=view&mode=dashboard)
+
+## `File - Structure`
++ Assessment
+    + Assignment - Bhuvanesh
+    + Assignment - Daniel
+    + Assignment - Devesh (TL)
+    + Assignment - Dinesh Kumar
++ IdeationPhase
+    + ProblemStatement & ProposedSystem
