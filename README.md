@@ -18,4 +18,6 @@ Analytics for Hospital Health-Care Data
     + Assignment - Devesh (TL)
     + Assignment - Dinesh Kumar
 + IdeationPhase
-    + ProblemStatement & ProposedSystem
+    + ProblemStatement
+    + Brainstroming-Idea Generation
+    + Empathy May
