@@ -24,5 +24,8 @@ Analytics for Hospital Health-Care Data
 + Project Design Phase and Planning
     + Project Design Phase-1
         - Problem Solution Fit
+        - Problem Solution Template
+        - Solution Architecture
     + Project Design Phase-2
+        +Customer Journey Map
     
