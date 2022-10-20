@@ -27,5 +27,5 @@ Analytics for Hospital Health-Care Data
         - Problem Solution Template
         - Solution Architecture
     + Project Design Phase-2
-        +Customer Journey Map
+        + Customer Journey Map
     
