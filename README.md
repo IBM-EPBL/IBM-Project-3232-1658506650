@@ -21,3 +21,8 @@ Analytics for Hospital Health-Care Data
     + ProblemStatement
     + Brainstroming-Idea Generation
     + Empathy May
++ Project Design Phase and Planning
+    + Project Design Phase-1
+        - Problem Solution Fit
+    + Project Design Phase-2
+    
