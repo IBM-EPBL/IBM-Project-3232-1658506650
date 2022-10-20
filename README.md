@@ -13,7 +13,7 @@ Analytics for Hospital Health-Care Data
 
 ## `File - Structure`
 + Assessment
-    + Assignment - Bhuvanesh
+    + Assignment - Bhuvanesh Kumar
     + Assignment - Daniel
     + Assignment - Devesh (TL)
     + Assignment - Dinesh Kumar
