@@ -21,6 +21,9 @@ Analytics for Hospital Health-Care Data
     + ProblemStatement
     + Brainstroming-Idea Generation
     + Empathy May
++ PreDevelopment
+    - IBM-Cloud
+    - IBM-Cognos
 + Project Design Phase and Planning
     + Project Design Phase-1
         - Problem Solution Fit
