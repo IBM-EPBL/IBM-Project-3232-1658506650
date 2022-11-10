@@ -1,10 +1,10 @@
 # `IBM-Project-3232-1658506650`
 ![image](https://onlinedegrees.sandiego.edu/wp-content/uploads/2019/07/What-is-Health-Care-Analytics.png)
     `Title: Analytics for Hospital Health-Care Data`
-    `1. Devesh (TL)`
-    `2. Bhuvanesh Kumar`
-    `3. Daniel Ebenezer`
-    `4. Dinesh Kumar`
+    1. Devesh (TL)
+    2. Bhuvanesh Kumar
+    3. Daniel Ebenezer
+    4. Dinesh Kumar
     
 ## `Assignment - Resources`
 * [Uploaded Data](https://us3.ca.analytics.ibm.com/bi/?perspective=home&folder=iF62568E933604D7CB92C2CD61BA14DF4)
