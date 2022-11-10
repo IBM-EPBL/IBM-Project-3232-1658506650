@@ -5,12 +5,10 @@ Analytics for Hospital Health-Care Data
     2. Bhuvanesh Kumar
     3. Daniel Ebenezer
     4. Dinesh Kumar
-## `Assignment - 1`
+## `Assignment - Resources`
 * [Uploaded Data](https://us3.ca.analytics.ibm.com/bi/?perspective=home&folder=iF62568E933604D7CB92C2CD61BA14DF4)
 * [Prepared Data](https://us3.ca.analytics.ibm.com/bi/?perspective=ca-modeller&pathRef=.my_folders%2F50_Startups_DataPrep)
 * [Data Visualization](https://us3.ca.analytics.ibm.com/bi/?perspective=explore&pathRef=.my_folders%2F50_Startups_DataExplored)
-
-## `Assignment - 2`
 * [Uploaded Data](https://us3.ca.analytics.ibm.com/bi/?perspective=home&folder=i3A3D384C78064727BAC13DF210011454)
 * [Prepared Data](https://us3.ca.analytics.ibm.com/bi/?perspective=ca-modeller&pathRef=.my_folders%2FPharma_Monthly_Sales_DataPrep)
 * [Data Explored](https://us3.ca.analytics.ibm.com/bi/?perspective=explore&pathRef=.my_folders%2FPharma_Monthly_Sales_DataExplored)
