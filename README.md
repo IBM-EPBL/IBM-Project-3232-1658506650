@@ -7,7 +7,7 @@ Team Members:
 + Bhuvanesh Kumar
 + Dinesh Kumar
 + Daniel Ebenezer
-    
+    `r icon::fa_rocket(animate = "spin")`
 ## `Assignment - Resources`
 * [Uploaded Data](https://us3.ca.analytics.ibm.com/bi/?perspective=home&folder=iF62568E933604D7CB92C2CD61BA14DF4)
 * [Prepared Data](https://us3.ca.analytics.ibm.com/bi/?perspective=ca-modeller&pathRef=.my_folders%2F50_Startups_DataPrep)
@@ -33,4 +33,3 @@ Team Members:
     + Sprint 04 
 + Working with Dataset
 
-    
