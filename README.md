@@ -1,14 +1,14 @@
 # `IBM-Project-3232-1658506650`
 ![image](https://onlinedegrees.sandiego.edu/wp-content/uploads/2019/07/What-is-Health-Care-Analytics.png)
-`Title: Analytics for Hospital Health-Care Data`
+## :floppy_disk: `Title: Analytics for Hospital Health-Care Data`
 
-Team Members:
+### Team Members: :octocat:
 + Devesh (TL)
 + Bhuvanesh Kumar
 + Dinesh Kumar
 + Daniel Ebenezer
-    `r icon::fa_rocket(animate = "spin")`
-## `Assignment - Resources`
+
+## `Assignment - Resources` :chart_with_downwards_trend:
 * [Uploaded Data](https://us3.ca.analytics.ibm.com/bi/?perspective=home&folder=iF62568E933604D7CB92C2CD61BA14DF4)
 * [Prepared Data](https://us3.ca.analytics.ibm.com/bi/?perspective=ca-modeller&pathRef=.my_folders%2F50_Startups_DataPrep)
 * [Data Visualization](https://us3.ca.analytics.ibm.com/bi/?perspective=explore&pathRef=.my_folders%2F50_Startups_DataExplored)
@@ -17,7 +17,7 @@ Team Members:
 * [Data Explored](https://us3.ca.analytics.ibm.com/bi/?perspective=explore&pathRef=.my_folders%2FPharma_Monthly_Sales_DataExplored)
 * [Dashboard](https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FPharma_Monthly_Sales_Dashboard&action=view&mode=dashboard)
 
-## `File - Structure`
+## `File - Structure` :file_folder:
 + Assessment
 + Data vizualisation
 + IdeationPhase
