@@ -1,6 +1,6 @@
 # `IBM-Project-3232-1658506650`
 Analytics for Hospital Health-Care Data
-[image](https://onlinedegrees.sandiego.edu/wp-content/uploads/2019/07/What-is-Health-Care-Analytics.png)
+![image](https://onlinedegrees.sandiego.edu/wp-content/uploads/2019/07/What-is-Health-Care-Analytics.png)
 ## `Team members`
     1. Devesh (TL)
     2. Bhuvanesh Kumar
