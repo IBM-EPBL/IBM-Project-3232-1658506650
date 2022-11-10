@@ -1,5 +1,10 @@
 # `IBM-Project-3232-1658506650`
 Analytics for Hospital Health-Care Data
+## `Team members`
+    1. Devesh (TL)
+    2. Bhuvanesh Kumar
+    3. Daniel Ebenezer
+    4. Dinesh Kumar
 ## `Assignment - 1`
 * [Uploaded Data](https://us3.ca.analytics.ibm.com/bi/?perspective=home&folder=iF62568E933604D7CB92C2CD61BA14DF4)
 * [Prepared Data](https://us3.ca.analytics.ibm.com/bi/?perspective=ca-modeller&pathRef=.my_folders%2F50_Startups_DataPrep)
@@ -13,25 +18,19 @@ Analytics for Hospital Health-Care Data
 
 ## `File - Structure`
 + Assessment
-    + Assignment - Bhuvanesh Kumar
-    + Assignment - Daniel
-    + Assignment - Devesh (TL)
-    + Assignment - Dinesh Kumar
++ Data vizualisation
 + IdeationPhase
-    + ProblemStatement
-    + Brainstroming-Idea Generation
-    + Empathy May
 + PreDevelopment
-    - IBM-Cloud
-    - IBM-Cognos
 + Project Design Phase and Planning
     + Project Design Phase-1
-        - Problem Solution Fit
-        - Problem Solution Template
-        - Solution Architecture
     + Project Design Phase-2
-        - Customer Journey Map
-        - Data Flow Diagram
-        - Solution Requirements
-        - Technology Stack
+    + Project Planning Phase
++ Project Development Phase
+    + Sprint 01
+    + Sprint 02
+    + Sprint 03
+    + Sprint 04 
++ Working with Dataset
+
+## ``
     
